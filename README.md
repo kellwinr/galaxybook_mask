@@ -6,7 +6,7 @@ This .bat script will allow you to mimic your windows pc as a Galaxy Book laptop
 
 
 ### To undo the changes (startup bat), locate & delete, then restart pc
-`C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp\samsung_notes.bat`
+`C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp\Galaxy Book Mimic.bat`
 
 To check if changes were successfully made, run "regedit" and locate
 `HKEY_LOCAL_MACHINE\HARDWARE\DESCRIPTION\System\BIOS`

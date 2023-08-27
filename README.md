@@ -1,5 +1,5 @@
 # Mask Galaxy Book laptop
-This .bat script will allow you to mimic your windows pc as a Galaxy Book laptop, this is usually used to bypass Samsung's restriction on some applications such as Samsung Notes.
+This .bat script will allow you to mimic your windows pc as a Galaxy Book laptop, this is usually used to bypass Samsung's restriction on some applications such as Samsung Notes by modifying the registry.
 ### 2 versions
 - Startup version
 - Non-Startup version

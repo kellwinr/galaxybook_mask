@@ -4,7 +4,6 @@ This .bat script will allow you to mimic your windows pc as a Galaxy Book laptop
 - Startup version
 - Non-Startup version
 
-
 ### To undo the changes (startup bat), locate & delete, then restart pc
 `C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp\GalaxyBookMask.bat`
 

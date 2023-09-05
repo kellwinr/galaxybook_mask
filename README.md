@@ -12,8 +12,8 @@ This .bat script will allow you to mimic your windows pc as a Galaxy Book laptop
 `HKEY_LOCAL_MACHINE\HARDWARE\DESCRIPTION\System\BIOS`
 
 #### Look for: -
-`SystemManufacturer: Samsung ;
-SystemProductName: NP950QDB-KA1US`
+`SystemManufacturer: Samsung`
+`SystemProductName: NP960XFG-KC4UK`
 
 #### Credit goes to [r/hedehede81](https://www.reddit.com/user/hedehede81), [via reddit](https://www.reddit.com/r/GalaxyBook/comments/15v05bv/samsung_notes_does_not_run_on_nongalaxy_book/?utm_source=share&utm_medium=web2x&context=3)
 _Feel free to modify the script to your desired behaviour._

@@ -5,7 +5,8 @@ This .bat script will allow you to mimic your windows pc as a Galaxy Book laptop
 ### 3 versions
 - Startup version
 - Non-Startup version
-- Direct Launch version: A direct launch version that launches Samsung notes after editing the registry and then restores the registry after the app has been launched. It's more like a shortcut to Samsung Notes.
+- Direct Launch version: A direct launch version that launches Samsung notes after editing the registry and then restores the registry after the app has been launched. It's more like a shortcut to Samsung Notes.contributed by [iknothing](https://github.com/iknothing)
+
 
 # "Connecting to a service" error solution
 
@@ -19,10 +20,12 @@ This .bat script will allow you to mimic your windows pc as a Galaxy Book laptop
 
 4. After the script has been executed, open the Samsung Account app on your PC from the Start Menu and log in using your Samsung account credentials.
 
-5. Finally, you can open Samsung Notes using the samsungnotes-directlaunch.bat file in this repository, and samsung notes should work as expected.
+5.  You can now access Samsung Notes using the preferred method provided in this repository, and Samsung Notes should function as intended.
 
 
-### To undo the changes (startup bat), locate & delete, then restart pc
+
+### To undo the changes (startup bat), locate & delete, then restart pc, the registry values will revert back to factory values
+
 `C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp\GalaxyBookMask.bat`
 
 

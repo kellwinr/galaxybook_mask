@@ -6,7 +6,7 @@ This .bat script will allow you to mimic your windows pc as a Galaxy Book laptop
 - Non-Startup version
 - Direct Launch version: A direct launch version that launches Samsung notes after editing the registry and then restores the registry after the app has been launched. It's more like a shortcut to Samsung Notes.
 
-### To undo the changes (startup bat), locate & delete, then restart pc
+### To undo the changes (startup bat), locate & delete, then restart pc, the registry values will revert back to factory values
 `C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp\GalaxyBookMask.bat`
 
 

@@ -5,7 +5,7 @@ This .bat script will allow you to mimic your windows pc as a Galaxy Book laptop
 ### 3 versions
 - Startup version
 - Non-Startup version
-- Direct Launch version: A direct launch version that launches Samsung notes after editing the registry and then restores the registry after the app has been launched. It's more like a shortcut to Samsung Notes.contributed by [iknothing](https://github.com/iknothing)
+- Direct Launch version: A direct launch version that launches Samsung notes after editing the registry and then restores the registry after the app has been launched. It's more like a shortcut to Samsung Notes. Contributed by [iknothing](https://github.com/iknothing)
 
 
 # "Connecting to a service" error solution

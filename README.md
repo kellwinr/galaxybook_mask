@@ -48,5 +48,5 @@ _Feel free to modify the script to your desired behaviour._
 5. Finish! 
 
 ## Disclaimer
-1. The script made are intended for Samsung Notes only, other Samsung applications might work but I can't guarantee those
+1. The scripts made are intended for Samsung Notes only, other Samsung applications might work but I can't guarantee those
 2. Applications like Samsung Settings requires the actual hardware components provided by Samsung to run, so the script will not bring you far

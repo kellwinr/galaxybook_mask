@@ -13,7 +13,7 @@ reg add "HKLM\HARDWARE\DESCRIPTION\System\BIOS" /v SystemManufacturer /t REG_SZ 
 start shell:AppsFolder\SAMSUNGELECTRONICSCoLtd.SamsungNotes_wyx1vj98g3asy!App
 
 :: Wait for Samsung Notes to start
-timeout /t 10
+timeout /t 5
 :: Restore the previous system product name and system manufacturer
 reg add "HKLM\HARDWARE\DESCRIPTION\System\BIOS" /v SystemProductName /t REG_SZ /d "%prev_product_name%" /f
 reg add "HKLM\HARDWARE\DESCRIPTION\System\BIOS" /v SystemManufacturer /t REG_SZ /d "%prev_manufacturer%" /f

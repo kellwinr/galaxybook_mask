@@ -7,6 +7,7 @@ This .bat script will allow you to mimic your windows pc as a Galaxy Book laptop
 - Startup version
 - Non-Startup version
 - Direct Launch version: A direct launch version that launches Samsung notes after editing the registry and then restores the registry after the app has been launched. It's more like a shortcut to Samsung Notes. Contributed by [iknothing](https://github.com/iknothing)
+- Vbs version: Similar to a direct launch, but it allows the application to run without opening a command prompt window. You can create a shortcut for the file **Samsung Notes.vbs** and set the original application icon for it. Then you can place it in **C:\ProgramData\Microsoft\Windows\Start Menu\Programs** and pin it to the start screen.
 
 
 # "Connecting to a service" error solution

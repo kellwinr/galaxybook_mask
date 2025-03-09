@@ -10,7 +10,7 @@ This .bat script will allow you to mimic your windows pc as a Galaxy Book laptop
 - Vbs version: Similar to a direct launch, but it allows the application to run without opening a command prompt window. You can create a shortcut for the file **Samsung Notes.vbs** and set the original application icon for it. Then you can place it in **C:\ProgramData\Microsoft\Windows\Start Menu\Programs** and pin it to the start screen. Contributed by [m4xp1](https://github.com/m4xp1)
 
 
-# "Connecting to a service" error solution
+## "Connecting to a service" error solution
 
 If you're dealing with that annoying "connecting to a service" pop-up or Samsung Notes freezing while trying to sync, here's what you can do: -
 

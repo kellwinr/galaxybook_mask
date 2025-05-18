@@ -1,5 +1,5 @@
 ## Mask Galaxy Book laptop (not required anymore for Samsung Notes, _updated 18/5/2025_)
-**GOOD NEWS!! Samsung Notes are now supporeted back on non-Galaxy Book Laptops.** 
+**GOOD NEWS!! Samsung Notes are now supporeted back on non-Galaxy Book Laptops. This project will now be archived for references in the future** 
 
 This .bat script will allow you to mimic your windows pc as a Galaxy Book laptop, this is usually used to bypass Samsung's restriction on some applications such as Samsung Notes by modifying the registry. _Third-party antivirus applications such as Kaspersky and Bitfinder detecting the .bat file as a threat, it is a false positive! Just whitelist it or modify the registry yourself if that is the case._ [This is a continued project from obrobrio200, Samsung-Quick-Share-4-All](https://github.com/obrobrio2000/Samsung-Quick-Share-4-All)
 
